@@ -1,0 +1,1 @@
+export function id(s: string): string

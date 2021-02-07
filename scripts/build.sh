@@ -1,0 +1,1 @@
+spago bundle-module -t dist/index.js -x -m Data.Starter && cp src/types/index.d.ts dist

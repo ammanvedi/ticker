@@ -1,0 +1,12 @@
+{
+  "name": "purescript-library-starter",
+  "version": "0.0.1",
+  "description": "Starting point for purescript libraries",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ammanvedi/purescript-library-starter.git"
+  },
+  "author": "amman.vedi@gmail.com",
+  "license": "MIT"
+}
