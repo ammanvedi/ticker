@@ -2,8 +2,8 @@
 var PS = {};
 (function($PS) {
   "use strict";
-  $PS["Data.Starter"] = $PS["Data.Starter"] || {};
-  var exports = $PS["Data.Starter"];
+  $PS["Data.Ticker"] = $PS["Data.Ticker"] || {};
+  var exports = $PS["Data.Ticker"];
   var id = function (s) {
       return s;
   };
@@ -11,4 +11,4 @@ var PS = {};
 })(PS);
 //# sourceMappingURL=index.js.map
 
-module.exports = PS["Data.Starter"];
+module.exports = PS["Data.Ticker"];

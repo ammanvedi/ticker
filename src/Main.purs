@@ -1,4 +1,4 @@
-module Data.Starter (id) where 
+module Data.Ticker (id) where 
 
 id :: String -> String
 id s = s

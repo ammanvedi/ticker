@@ -2,7 +2,7 @@
 Welcome to a Spago project!
 You can edit this file as you like.
 -}
-{ name = "purescript-libray-starter"
+{ name = "ticker"
 , dependencies =
   [ "arrays"
   , "assert"
@@ -27,5 +27,5 @@ You can edit this file as you like.
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
 , license = "MIT"
-, repository = "https://github.com/ammanvedi/purescript-library-starter"
+, repository = "https://github.com/ammanvedi/ticker"
 }

@@ -1,6 +1,6 @@
 module Test.MainSpec where
 
-import Data.Starter (id)
+import Data.Ticker (id)
 import Prelude (Unit, discard)
 import Test.Spec (Spec, describe, it)
 import Test.Spec.Assertions (shouldEqual)
